@@ -15,6 +15,16 @@ Benifiets:
 - Certificate re-use. Certificates aren't revoked when they don't have to be - the same certificate from the computer is shared to the phone if they have a matching teamID(account) and if still valid
 - Certificates are directly checked with apple signing servers for the revokation status
 
+# Setup
+Linux:
+- Install usbmuxd (ex. sudo apt-get install usbmuxd)
+
+Windows:
+- Install iTunes (https://support.apple.com/en-us/HT210384)
+
+macOS:
+- No requirements
+
 # Scarlet
 Scarlet is installed with this tool which allows you to add jailbroken repos and install jailbroken apps all without a jailbreak !
 It also includes a beautiful design and lightning fast app sideloading
