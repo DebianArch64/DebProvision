@@ -21,7 +21,7 @@ Linux:
 
 Windows:
 - Install iTunes (https://support.apple.com/en-us/HT210384)
-- Install iCloud (Required on GUI version of ScarletCloud)(https://updates.cdn-apple.com/2020/windows/001-39935-20200911-1A70AA56-F448-11EA-8CC0-99D41950005E/iCloudSetup.exe)
+- Install iCloud (https://updates.cdn-apple.com/2020/windows/001-39935-20200911-1A70AA56-F448-11EA-8CC0-99D41950005E/iCloudSetup.exe)
 
 macOS:
 - No requirements
