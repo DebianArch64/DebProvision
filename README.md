@@ -14,6 +14,7 @@ Benifiets:
 - Logic/handling of when to fetch anisette is entirely redesigned and understands when adi resets instantly
 - Certificate re-use. Certificates aren't revoked when they don't have to be - the same certificate from the computer is shared to the phone if they have a matching teamID(account) and if still valid
 - Certificates are directly checked with apple signing servers for the revokation status
+- 100% working revokeless AppStore app installations (you no longer need to use the AppStore 🕺)
 
 # Setup
 Linux:
